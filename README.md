@@ -1,6 +1,5 @@
-### Hi there, I'm Mayur - aka [Complex][website] 👋
+### Hi there, I'm Mayur - MERN Stack Developer 👋
 
-[![Website](http://www.complexfoundation.com/mayurPortfolio)](https:www.complexfoundation.com/)
 
 ## I'm an Indian Freelance Software Developer
 
