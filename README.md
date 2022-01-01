@@ -6,7 +6,7 @@
 - 🔭 I am currently working on my portfolio [Check this out!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with others.
-- 🥅 2021 Goals: Contribute more to my projects.
+- 🥅 2022 Goals: Work in an awesome web dev agency where i can contribute more.
 - ⚡ Fun fact: I love to play Counter Strike Global Offensive.
 
 <!-- ### Connect with me:
