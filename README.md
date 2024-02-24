@@ -3,7 +3,7 @@
 
 ## I'm an Indian Freelance Software Developer
 
-- 🔭 I am currently working on my portfolio [Check this out!][course]!
+- 🔭 Here is my portfolio [Check this out!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with others.
 - 🥅 2022 Goals: Work in an awesome web dev agency where i can contribute more.
